@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mkadr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mkadr\\.nuget\\packages"
+    ]
+  }
+}
